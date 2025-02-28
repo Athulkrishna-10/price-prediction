@@ -18,7 +18,7 @@ This repository demonstrates a simple implementation of house price prediction u
 
 1. Clone this repository:
    ``` 
-   https://github.com/mmanikandan281/Price-prediction.git
+   https://github.com/Athulkrishna-10/price-prediction.git
    ```
 3. Navigate to the project directory:
    bash
